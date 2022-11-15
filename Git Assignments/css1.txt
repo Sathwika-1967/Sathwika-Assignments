@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>this is title for invitation</title>
+</head>
+<body>
+marriage!
+</body>
+</html>

@@ -1,0 +1,7 @@
+<html>
+<head>
+<body>
+<title>this is js1 assignment</title>
+</body>
+</head>
+</html>
